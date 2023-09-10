@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8b/d8/cf/8bd8cfe793890385deca7eab7df5c329.gif" alt="Header Image" width="1000px" height="500px">
+  <img src="https://media.tenor.com/B-UyWlKXI_oAAAAC/coding-how-to-sell-drugs-online-fast.gif" >
 </p>
 <h1 align="center">Hi 👋, I'm Nattudurai</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x37ja7b129kusm57w0ygizwxah5j5lhg2i4k78b5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Image">
 
+<p aligh="center"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x37ja7b129kusm57w0ygizwxah5j5lhg2i4k78b5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF Image"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nattu02&label=Profile%20views&color=0e75b6&style=flat" alt="nattu02" /> </p>
 
-- 🔭 I’m currently working on **Car rental website**
+- 🔭 I’m currently working on **Hospital management system**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **nattuduraic.02@gmail.com**
 
