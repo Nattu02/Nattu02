@@ -4,13 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattu02&label=Profile%20views&color=0e75b6&style=flat" alt="nattu02" /> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **nattuduraic.02@gmail.com**
-
-- ⚡ Fun fact **I'm a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
